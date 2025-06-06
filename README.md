@@ -7,7 +7,7 @@ make sure to check any errors
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200px" />
+  <img src="https://i.pinimg.com/originals/2c/7b/8d/2c7b8d1f33c99c1a0c142fa5033ffbc9.gif?width=100&height=120" />
   <h1>🧠 J.A.R.V.I.S – Python Voice Assistant</h1>
   <p>
     A lightweight voice-activated assistant built with Python, inspired by Iron Man's J.A.R.V.I.S.
