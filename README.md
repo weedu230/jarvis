@@ -17,7 +17,6 @@ make sure to check any errors
 ---
 
 
-https://github.com/user-attachments/assets/892ea133-a1a3-4379-8039-a4895ff1df1a
 
 
 ### 🎯 Features
